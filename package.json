@@ -1,0 +1,19 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "mongoose": "^6.0.8"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
